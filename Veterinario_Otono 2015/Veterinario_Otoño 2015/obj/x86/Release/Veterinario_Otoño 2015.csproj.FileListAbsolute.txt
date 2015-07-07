@@ -1,0 +1,13 @@
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Release\Veterinario_Otoño 2015.exe
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Release\Veterinario_Otoño 2015.pdb
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño 2015.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño_2015.Form1.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño_2015.FormParametros.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño 2015.exe
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Release\Veterinario_Otoño 2015.pdb

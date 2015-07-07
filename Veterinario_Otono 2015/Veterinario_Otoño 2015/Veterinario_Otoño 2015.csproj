@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{58CDDC7A-1570-447E-8C96-D65ADFBBE006}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Veterinario_Otoño_2015</RootNamespace>
+    <AssemblyName>Veterinario_Otoño 2015</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>WILE.ICO</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAcceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAcceso.Designer.cs">
+      <DependentUpon>FormAcceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAcercaDe.Designer.cs">
+      <DependentUpon>FormAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAtencion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAtencion.Designer.cs">
+      <DependentUpon>FormAtencion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDueño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDueño.Designer.cs">
+      <DependentUpon>FormDueño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMascota.Designer.cs">
+      <DependentUpon>FormMascota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormParametros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormParametros.Designer.cs">
+      <DependentUpon>FormParametros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVeterinarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVeterinarios.Designer.cs">
+      <DependentUpon>FormVeterinarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAcceso.resx">
+      <DependentUpon>FormAcceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAcercaDe.resx">
+      <DependentUpon>FormAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAtencion.resx">
+      <DependentUpon>FormAtencion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDueño.resx">
+      <DependentUpon>FormDueño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMascota.resx">
+      <DependentUpon>FormMascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormParametros.resx">
+      <DependentUpon>FormParametros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVeterinarios.resx">
+      <DependentUpon>FormVeterinarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barney 2.ico" />
+    <None Include="Resources\dog56.png" />
+    <None Include="Resources\users81.png" />
+    <None Include="Resources\cancel19.png" />
+    <None Include="Resources\gear39.png" />
+    <None Include="Resources\business133.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\question58.png" />
+    <None Include="Resources\chick2.png" />
+    <None Include="Resources\chick21.png" />
+    <None Include="Resources\configure.png" />
+    <None Include="Resources\shuffle11.png" />
+    <None Include="Resources\delete97.png" />
+    <None Include="Resources\entering1.png" />
+    <None Include="Resources\back57.png" />
+    <None Include="Resources\dog561.png" />
+    <None Include="Resources\configure1.png" />
+    <None Include="Resources\camera3.png" />
+    <None Include="Resources\camera31.png" />
+    <None Include="Resources\users811.png" />
+    <Content Include="WILE.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClasesVeterinariaOtoño2015\ClasesVeterinariaOtoño2015.csproj">
+      <Project>{11125C4F-C11E-4AD4-ADFD-B2B88D84D0E0}</Project>
+      <Name>ClasesVeterinariaOtoño2015</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\bin\Debug\ClasesVeterinariaOtoño2015.dll
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\bin\Debug\ClasesVeterinariaOtoño2015.pdb
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\obj\Debug\ClasesVeterinariaOtoño2015.dll
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\obj\Debug\ClasesVeterinariaOtoño2015.pdb
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\obj\Debug\ClasesVeterinariaOtoño2015.csprojResolveAssemblyReference.cache
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\bin\Debug\ClasesVeterinariaOtoño2015.dll
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\bin\Debug\ClasesVeterinariaOtoño2015.pdb
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\obj\Debug\ClasesVeterinariaOtoño2015.csprojResolveAssemblyReference.cache
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\obj\Debug\ClasesVeterinariaOtoño2015.dll
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\ClasesVeterinariaOtoño2015\obj\Debug\ClasesVeterinariaOtoño2015.pdb

@@ -1,0 +1,190 @@
+c:\users\18775825-4\documents\visual studio 2010\Projects\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+c:\users\18775825-4\documents\visual studio 2010\Projects\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+c:\users\18775825-4\documents\visual studio 2010\Projects\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+c:\users\18775825-4\documents\visual studio 2010\Projects\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+c:\users\18775825-4\documents\visual studio 2010\Projects\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+c:\users\18775825-4\documents\visual studio 2010\Projects\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+c:\users\18775825-4\documents\visual studio 2010\Projects\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+c:\users\18775825-4\documents\visual studio 2010\Projects\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+E:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+E:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+E:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+E:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+E:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+E:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+E:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+E:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+E:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+D:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+D:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+D:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+D:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+D:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+D:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+D:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+D:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+D:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+F:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+F:\INACAP\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\18775825-4\Desktop\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Users\18775825-4\Desktop\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\18775825-4\Desktop\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Users\18775825-4\Desktop\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\18775825-4\Desktop\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\18775825-4\Desktop\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\18775825-4\Desktop\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Users\18775825-4\Desktop\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Users\18775825-4\Desktop\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+C:\Users\Ivan Lorca\Desktop\INACAP\III SEMESTRE\PROGRAMACION III\Veterinario_Otoño 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAtencion.resources
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Users\IEUser\Desktop\PruebaprograIII\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAtencion.resources
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\Cubil\Documents\prueba_progra_3\prograIII\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAtencion.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Andres Olmos\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csprojResolveAssemblyReference.cache
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csprojResolveAssemblyReference.cache
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAtencion.resources
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\Cubil\Desktop\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAtencion.resources
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\Ivan Lorca\Documents\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAtencion.resources
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Prueba3ver.2\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csprojResolveAssemblyReference.cache
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAtencion.resources
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+E:\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\ClasesVeterinariaOtoño2015.dll
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\ClasesVeterinariaOtoño2015.pdb
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csprojResolveAssemblyReference.cache
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAtencion.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\Andres Olmos\Desktop\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.exe
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csprojResolveAssemblyReference.cache
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Form1.resources
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcceso.resources
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAcercaDe.resources
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormAtencion.resources
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormDueño.resources
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormMascota.resources
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormParametros.resources
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.FormVeterinarios.resources
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño_2015.Properties.Resources.resources
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\obj\x86\Debug\Veterinario_Otoño 2015.csproj.GenerateResource.Cache
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.exe
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\Veterinario_Otoño 2015.pdb
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\ClasesVeterinariaOtoño2015.dll
+C:\Users\andre_000\Dropbox\Inacap\semestre 3\Taller de Programacion III\Prueba3ver.3\Prueba3ver.2\Veterinario_Otono 2015\Veterinario_Otoño 2015\bin\Debug\ClasesVeterinariaOtoño2015.pdb
